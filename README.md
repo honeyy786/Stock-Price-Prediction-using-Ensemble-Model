@@ -1,3 +1,7 @@
+<img width="1201" alt="Poster" src="https://github.com/user-attachments/assets/80f4e78b-a98c-4143-961c-ce14e40fdeda">
+
+
+
 **1. Problem Area/Domain:**
 Stock price forecasting is the most important and interesting area for investors.
 Today, most people, especially young people, are turning to investing and making money through trading, again from the stock market, crypto market, etc. 
