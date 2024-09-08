@@ -12,6 +12,8 @@ The stock market depends on government policies, natural disasters, economic dat
 precise decision.
 2. Study stock market trends and factors affecting stock prices.
 3. Helps to understand the sentiments and predict future value of stocks of a company.
+
+   
 **3. Proposed Solution(s)/Your Role:**
 The main motivation behind our stock price prediction system is to provide proper information about stocks, which stock will go up and which one will go down.
 However, making money in stock market is very hard because the stock market is very unpredictable.
